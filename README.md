@@ -13,7 +13,7 @@ Plataforma para registrar alguns hábitos já predeterminados construída durant
 
 Você pode acessar a plataforma através do link abaixo:
 
-- Deploy: https://anacssouza.github.io/nlw-setup/
+- Deploy: https://anacssouza.github.io/Controle-De-Habitos/
 
 <h2> ✨ Tecnologias utilizadas </h2>
 
