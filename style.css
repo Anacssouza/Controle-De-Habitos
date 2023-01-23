@@ -40,6 +40,11 @@ button{
   line-height: 125%;
 }
 
+button:hover{
+  background-color: #c593a6;
+  border: 1px solid #c593a6;
+}
+
 #form-habits{
   display: flex;
   width: fit-content;
