@@ -3,13 +3,13 @@
 <h2> 💻 Telas </h2> 
 
 <div align="center">
-  <img src='https://user-images.githubusercontent.com/89041008/213806663-076b9358-3d3e-4351-9f38-b438a11bca77.png' width=48%/>
+  <img src='https://user-images.githubusercontent.com/89041008/214146500-b0ef9cf5-fce9-45fa-b567-6d4370f905c4.png' width=48%/>
 </div>
 
 
 <h2> 🚀 Projeto </h2>
 
-Plataforma para registrar alguns hábitos já predeterminados (por enquanto) construída durante um dos programas gratuitos da Rocketseat, a NLW Setup. Ao clicar no botão de Registrar meu dia, é possível registrar o dia atual e posteriormente selecionar quais hábitos foram cumpridos. Os dias e hábitos cumpridos ficam salvos no LocalStorage.
+Plataforma para registrar alguns hábitos já predeterminados construída durante um dos programas gratuitos da Rocketseat, a NLW Setup, contudo realizei algumas modificações em cima do design original para ficar mais personalizado. Ao clicar no botão de Registrar meu dia, é possível registrar o dia atual e posteriormente selecionar quais hábitos foram cumpridos. Os dias e hábitos cumpridos ficam salvos no LocalStorage.
 
 Você pode acessar a plataforma através do link abaixo:
 
